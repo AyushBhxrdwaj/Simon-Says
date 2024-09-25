@@ -13,7 +13,7 @@ strt.addEventListener("click",()=>{
     if(start==false){
         start = true
         console.log("Started")
-
+        strt.style.display = "none"
         levelup()
     }
 })
@@ -93,6 +93,7 @@ for(btn of btnall){
 
 function reset(){
     start=false
+    strt.style.display = "inline-block"
     gamesequence=[]
     usersequence=[]
     level=0
