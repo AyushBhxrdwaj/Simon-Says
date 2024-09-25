@@ -8,8 +8,8 @@ let level = 0
 
 let chng = document.querySelector("input")
 let h2 = document.querySelector("h2")
-
-document.addEventListener("keypress",()=>{
+let strt = document.getElementById("start")
+strt.addEventListener("click",()=>{
     if(start==false){
         start = true
         console.log("Started")
