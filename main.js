@@ -100,12 +100,14 @@ function reset(){
 let body=document.querySelector("body")
 let h1 = document.querySelector("h1")
 let h3 = document.querySelector("h3")
+let p = document.querySelector("p")
 chng.addEventListener("click",()=>{
     if(chng.checked){
         body.style.backgroundColor = "black"
         h1.style.color = "white"
         h2.style.color = "white"
         h3.style.color="white"
+        p.style.color="white"
         document.getElementById("red").style.borderColor = "white"
         document.getElementById("yellow").style.borderColor = "white"
         document.getElementById("green").style.borderColor = "white"
@@ -115,6 +117,7 @@ chng.addEventListener("click",()=>{
         h1.style.color = "black"
         h2.style.color = "black"
         h3.style.color = "black"
+        p.style.color = "black"
         document.getElementById("red").style.borderColor = "black"
         document.getElementById("yellow").style.borderColor = "black"
         document.getElementById("green").style.borderColor = "black"

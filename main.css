@@ -112,3 +112,11 @@ body{
     right: 0;
     margin: 20px 20px;
   }
+
+  .love{
+    font-size: 20px;
+  }
+
+  .bheart{
+    color: red;
+  }
