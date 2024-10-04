@@ -1,7 +1,3 @@
-Based on your files, here's a generated README file for your Simon Says game project:
-
----
-
 # Simon Says Game 🎮
 
 A fun and interactive **Simon Says** game where players must remember and replicate sequences of button presses! Built using HTML, CSS, and JavaScript.
@@ -15,7 +11,7 @@ A fun and interactive **Simon Says** game where players must remember and replic
 
 ## Demo 🚀
 
-You can play the game locally by following the steps below.
+You can play the game locally by following the steps below or at the link simon-say.pages.dev
 
 ## How to Play 🎯
 
