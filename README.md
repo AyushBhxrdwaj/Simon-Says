@@ -11,7 +11,7 @@ A fun and interactive **Simon Says** game where players must remember and replic
 
 ## Demo 🚀
 
-You can play the game locally by following the steps below or at the link simon-say.pages.dev
+You can check out the live demo of the project [here](https://simon-say.pages.dev/)
 
 ## How to Play 🎯
 
